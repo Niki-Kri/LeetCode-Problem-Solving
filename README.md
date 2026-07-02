@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
