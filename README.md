@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
