@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
