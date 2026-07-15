@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
