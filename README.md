@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 ## Matrix
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
