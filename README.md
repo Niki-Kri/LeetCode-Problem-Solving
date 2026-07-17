@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
 | ------- |
