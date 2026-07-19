@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 ## Matrix
