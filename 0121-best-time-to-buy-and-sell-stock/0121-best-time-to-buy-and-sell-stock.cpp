@@ -6,9 +6,7 @@ public:
         int min_price=prices[0];
         for(int i=1;i<n;i++){
             int curr_profit=prices[i]-min_price;
-            if(curr_profit > max_profit){
-                max_profit=curr_profit;
-            }
+            max_profit=max(max_profit,curr_profit);
             min_price=min(min_price,prices[i]);
         }
         return max_profit;
