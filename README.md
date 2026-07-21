@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
