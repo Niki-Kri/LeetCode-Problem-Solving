@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
