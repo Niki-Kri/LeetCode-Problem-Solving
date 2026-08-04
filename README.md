@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0058-length-of-last-word) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
