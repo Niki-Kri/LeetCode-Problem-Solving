@@ -1,24 +1,35 @@
 class Solution {
-    const string pad[10] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-    void backtrack(const string& digits, int pos, string& current, vector<string>& res) {
-        if (pos == digits.size()) {
-            res.push_back(current);
+public:
+    vector<string> ans;
+    string getLetters(char digit) {
+        if (digit == '2') return "abc";
+        if (digit == '3') return "def";
+        if (digit == '4') return "ghi";
+        if (digit == '5') return "jkl";
+        if (digit == '6') return "mno";
+        if (digit == '7') return "pqrs";
+        if (digit == '8') return "tuv";
+        if (digit == '9') return "wxyz";
+        return "";
+    }
+    void solve(string digits, string temp, int index) {
+        if (index == digits.length()) {
+            ans.push_back(temp);
             return;
         }
-        for (char c : pad[digits[pos] - '0']) {
-            current.push_back(c);
-            backtrack(digits, pos + 1, current, res);
-            current.pop_back();
+        char curr_digit = digits[index];
+        string letters = getLetters(curr_digit);
+
+        for (int i = 0; i < letters.length(); i++) {
+            solve(digits, temp + letters[i], index + 1);
         }
     }
-
-public:
     vector<string> letterCombinations(string digits) {
-        if (digits.empty()) return {};
-        vector<string> res;
-        string current;
-        current.reserve(digits.size());
-        backtrack(digits, 0, current, res);
-        return res;
+        ans.clear();
+        if (digits.length() == 0) {
+            return ans;
+        }
+        solve(digits, "", 0);
+        return ans;
     }
 };
