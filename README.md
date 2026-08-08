@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
