@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Math
 |  |
