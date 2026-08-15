@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 ## Bracket Sequences
 |  |
