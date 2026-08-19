@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
