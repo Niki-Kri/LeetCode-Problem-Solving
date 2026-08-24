@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -483,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
