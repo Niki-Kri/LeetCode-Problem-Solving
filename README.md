@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
