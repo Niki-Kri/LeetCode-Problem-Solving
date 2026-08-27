@@ -1,23 +1,23 @@
 class Solution {
+public:
+    vector<vector<int>> combinationSum(vector<int>& c, int t) {
+        vector<vector<int>> res;
+        vector<int> cur;
+        dfs(0, t, c, cur, res);
+        return res;
+    }
 private:
-    void backtrack(int index, int target, vector<int>& candidates, vector<int>& current, vector<vector<int>>& result) {
-        if (target == 0) {
-            result.push_back(current);
+    void dfs(int i, int t, vector<int>& c, vector<int>& cur, vector<vector<int>>& res) {
+        if (t == 0) {
+            res.push_back(cur);
             return;
         }
-        for (int i = index; i < candidates.size(); ++i) {
-            if (candidates[i] <= target) {
-                current.push_back(candidates[i]);
-                backtrack(i, target - candidates[i], candidates, current, result);
-                current.pop_back();
-            }
+        if (t < 0 || i >= c.size()) {
+            return;
         }
-    }
-public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> result;
-        vector<int> current;
-        backtrack(0, target, candidates, current, result);
-        return result;
+        cur.push_back(c[i]);
+        dfs(i, t - c[i], c, cur, res);
+        cur.pop_back();
+        dfs(i + 1, t, c, cur, res);
     }
 };
