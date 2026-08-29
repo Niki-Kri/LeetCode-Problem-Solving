@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Matrix
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 ## Backtracking
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
