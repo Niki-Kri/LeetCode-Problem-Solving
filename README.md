@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
+| [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
