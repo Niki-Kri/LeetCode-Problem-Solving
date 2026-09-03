@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 ## Quickselect
 |  |
@@ -650,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
