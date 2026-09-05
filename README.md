@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -400,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Counting Sort
 |  |
 | ------- |
