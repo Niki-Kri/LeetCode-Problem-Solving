@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
