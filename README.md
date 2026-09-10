@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
