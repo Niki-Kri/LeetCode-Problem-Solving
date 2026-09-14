@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
