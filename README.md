@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0120-triangle) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
