@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Matrix
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
