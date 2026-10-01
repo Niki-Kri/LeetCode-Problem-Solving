@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
