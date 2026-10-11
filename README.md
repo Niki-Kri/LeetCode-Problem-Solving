@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
@@ -658,12 +663,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -784,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
