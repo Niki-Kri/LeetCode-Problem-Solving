@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
