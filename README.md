@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0299-bulls-and-cows) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
