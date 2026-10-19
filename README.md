@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
