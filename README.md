@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 ## Bracket Sequences
 |  |
