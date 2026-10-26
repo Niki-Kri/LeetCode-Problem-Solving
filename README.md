@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
