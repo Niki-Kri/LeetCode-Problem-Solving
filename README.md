@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
