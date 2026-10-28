@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [1254-number-of-closed-islands](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
