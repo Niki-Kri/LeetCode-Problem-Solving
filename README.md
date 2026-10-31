@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
