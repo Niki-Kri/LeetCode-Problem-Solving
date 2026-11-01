@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
