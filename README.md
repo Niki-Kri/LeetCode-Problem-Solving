@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -783,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
