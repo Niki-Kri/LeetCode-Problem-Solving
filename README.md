@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -749,10 +751,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
