@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0212-word-search-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 ## Prefix Sum
 |  |
 | ------- |
