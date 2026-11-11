@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
