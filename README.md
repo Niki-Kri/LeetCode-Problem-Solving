@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -956,4 +960,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
