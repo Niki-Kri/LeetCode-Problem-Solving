@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0434-number-of-segments-in-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
