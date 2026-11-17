@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0434-number-of-segments-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
