@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0398-random-pick-index) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -989,4 +992,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0365-water-and-jug-problem) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
