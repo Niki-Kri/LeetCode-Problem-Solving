@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Counting Sort
 |  |
 | ------- |
