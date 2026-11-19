@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3364-minimum-positive-sum-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0502-ipo) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Math
