@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Niki-Kri/LeetCode-Problem-Solving/tree/master/0390-elimination-game) |
 ## Backtracking
 |  |
 | ------- |
